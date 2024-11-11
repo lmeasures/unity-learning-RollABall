@@ -1,0 +1,5 @@
+# Unity-specific ignore
+Library/
+Temp/
+*.meta
+*.unityproj
